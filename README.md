@@ -18,3 +18,6 @@ Another tic tac toe project. This project was made in a way, where the instructi
 
 ## Tarefa 30:
 Introdution to Windows Forms. App simulating a costumer service with the intent for us to learn about collections.
+
+## Figuras:
+App that lets you draw lines and triangles. This project served as an introdution to object oriented programming.
