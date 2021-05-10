@@ -12,3 +12,6 @@ Array manipulation.
 
 ## Tarefa 24:
 More on array manipulation.
+
+## Tarefa 25:
+Another tic tac toe project. This project was made in a way, where the instructions to each method where given to us individually. In the end everything was put together. 
