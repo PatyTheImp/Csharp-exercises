@@ -21,3 +21,6 @@ Introdution to Windows Forms. App simulating a costumer service with the intent 
 
 ## Figuras:
 App that lets you draw lines and triangles. This project served as an introdution to object oriented programming.
+
+## Gestão escolar:
+School management app. This project deepened our OOP knowledge and introduced us to CRUD.
