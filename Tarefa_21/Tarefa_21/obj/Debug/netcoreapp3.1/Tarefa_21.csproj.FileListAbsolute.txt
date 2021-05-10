@@ -1,0 +1,13 @@
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\bin\Debug\netcoreapp3.1\Tarefa_21.exe
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\bin\Debug\netcoreapp3.1\Tarefa_21.deps.json
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\bin\Debug\netcoreapp3.1\Tarefa_21.runtimeconfig.json
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\bin\Debug\netcoreapp3.1\Tarefa_21.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\bin\Debug\netcoreapp3.1\Tarefa_21.dll
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\bin\Debug\netcoreapp3.1\Tarefa_21.pdb
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.dll
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.pdb
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\Tarefa_21\Tarefa_21\obj\Debug\netcoreapp3.1\Tarefa_21.genruntimeconfig.cache
