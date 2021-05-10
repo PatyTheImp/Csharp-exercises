@@ -1,0 +1,15 @@
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\bin\Debug\netcoreapp3.1\ServicoDeAtendimento.exe
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\bin\Debug\netcoreapp3.1\ServicoDeAtendimento.deps.json
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\bin\Debug\netcoreapp3.1\ServicoDeAtendimento.runtimeconfig.json
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\bin\Debug\netcoreapp3.1\ServicoDeAtendimento.runtimeconfig.dev.json
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\bin\Debug\netcoreapp3.1\ServicoDeAtendimento.dll
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\bin\Debug\netcoreapp3.1\ServicoDeAtendimento.pdb
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.csprojAssemblyReference.cache
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.Form1.resources
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.csproj.GenerateResource.cache
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.AssemblyInfoInputs.cache
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.AssemblyInfo.cs
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.csproj.CoreCompileInputs.cache
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.dll
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.pdb
+K:\OneDrive\informática\tarefas\Csharp\Tarefa_30\ServicoDeAtendimento\ServicoDeAtendimento\obj\Debug\netcoreapp3.1\ServicoDeAtendimento.genruntimeconfig.cache

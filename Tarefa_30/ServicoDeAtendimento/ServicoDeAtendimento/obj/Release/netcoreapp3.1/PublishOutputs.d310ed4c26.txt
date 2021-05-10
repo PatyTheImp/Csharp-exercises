@@ -1,0 +1,5 @@
+K:\cenas\ServicoDeAtendimento.exe
+K:\cenas\ServicoDeAtendimento.dll
+K:\cenas\ServicoDeAtendimento.deps.json
+K:\cenas\ServicoDeAtendimento.runtimeconfig.json
+K:\cenas\ServicoDeAtendimento.pdb
