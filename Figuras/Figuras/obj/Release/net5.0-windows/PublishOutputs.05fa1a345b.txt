@@ -1,0 +1,5 @@
+K:\cenas\Minhas Apps\FigurasApp\Figuras.exe
+K:\cenas\Minhas Apps\FigurasApp\Figuras.dll
+K:\cenas\Minhas Apps\FigurasApp\Figuras.deps.json
+K:\cenas\Minhas Apps\FigurasApp\Figuras.runtimeconfig.json
+K:\cenas\Minhas Apps\FigurasApp\Figuras.pdb
