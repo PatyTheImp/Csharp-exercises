@@ -15,3 +15,6 @@ More on array manipulation.
 
 ## Tarefa 25:
 Another tic tac toe project. This project was made in a way, where the instructions to each method where given to us individually. In the end everything was put together. 
+
+## Tarefa 30:
+Introdution to Windows Forms. App simulating a costumer service with the intent for us to learn about collections.
