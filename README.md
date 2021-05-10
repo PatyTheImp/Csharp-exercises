@@ -9,3 +9,6 @@ Recursion.
 
 ## Tarefa 22:
 Array manipulation.
+
+## Tarefa 23:
+More on array manipulation.
