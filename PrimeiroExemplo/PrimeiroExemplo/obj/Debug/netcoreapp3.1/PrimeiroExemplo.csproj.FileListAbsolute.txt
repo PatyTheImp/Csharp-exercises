@@ -1,0 +1,13 @@
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.exe
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.deps.json
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.runtimeconfig.json
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.runtimeconfig.dev.json
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.dll
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\bin\Debug\netcoreapp3.1\PrimeiroExemplo.pdb
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.dll
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.pdb
+C:\Users\Usuario\OneDrive\informática\tarefas\Csharp\PrimeiroExemplo\PrimeiroExemplo\obj\Debug\netcoreapp3.1\PrimeiroExemplo.genruntimeconfig.cache
