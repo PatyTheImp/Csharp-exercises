@@ -6,3 +6,6 @@ Decision structs, loops and methods.
 
 ## Tarefa 21:
 Recursion.
+
+## Tarefa 22:
+Array manipulation.
