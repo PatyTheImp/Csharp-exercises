@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>K:\OneDrive\informática\tarefas\Csharp\GestaoEscolarV2\GestaoEscolar\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ConsultarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FecharMes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GestaoEscolar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NovoProfessor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
